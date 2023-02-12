@@ -1,6 +1,7 @@
-
 <h1 align="center">:cat: GitHub wprowadzenie :octopus:</h1>
-Poradnik przedstawia krok po kroku podstawowe użytkowanie serwisu GitHub. Dzięki któremu społeczeństwo programistyczne ma miejsce do komunikacji między sobą, a także przechowywania projektów czy dokumentacji. My będziemy korzystać z wylistowanych tematów do zajęć, więc podstawowa umiejętność obsługi tego serwisu jest _obowiązkowa_.
+
+Poradnik przedstawia krok po kroku podstawowe użytkowanie serwisu GitHub. Dzięki któremu społeczeństwo programistyczne ma miejsce do komunikacji między sobą, a także przechowywania projektów czy dokumentacji. My będziemy korzystać z wylistowanych tematów do zajęć, więc podstawowa umiejętność obsługi tego serwisu jest **_obowiązkowa_**.
+
 <div style="background-color:#5522d6; border-radius: 5px; height: 2px;">
 ⠀
 </div>
