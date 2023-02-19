@@ -129,15 +129,15 @@ Poradnik przedstawia krok po kroku podstawowe użytkowanie serwisu GitHub. Dzię
 
   #### Akcent
   ```markdown
-    *tekst* oznacza podkreślenie
+    *tekst* oznacza kursywę
     **tekst** oznacza pogrubienie
-    **_tekst_** oznacza pogrubienie i podkreślenie
+    **_tekst_** oznacza pogrubienie i kursywę
   ```
-  *tekst* oznacza podkreślenie
+  *tekst* oznacza kursywę
 
   **tekst** oznacza pogrubienie
 
-  **_tekst_** oznacza pogrubienie i podkreślenie
+  **_tekst_** oznacza pogrubienie i kursywę
 
   #### Listowanie
   ```markdown
